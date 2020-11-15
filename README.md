@@ -33,6 +33,12 @@
 <br />
 <br /> 
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
 
 [website]: https://kelvin9314.work
 [twitter]: https://twitter.com/kelvin9314

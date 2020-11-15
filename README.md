@@ -46,10 +46,10 @@
 
 </details>
 
-<details>
+
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</details>
 
 [website]: https://kelvin9314.work
 [twitter]: https://twitter.com/kelvin9314

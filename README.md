@@ -33,19 +33,6 @@
 <br />
 <br /> 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kelvin9314/docker-practice/pull/2) in [kelvin9314/docker-practice](https://github.com/kelvin9314/docker-practice)
-2. 💪 Opened PR [#2](https://github.com/kelvin9314/docker-practice/pull/2) in [kelvin9314/docker-practice](https://github.com/kelvin9314/docker-practice)
-3. 🎉 Merged PR [#1](https://github.com/kelvin9314/docker-practice/pull/1) in [kelvin9314/docker-practice](https://github.com/kelvin9314/docker-practice)
-4. 💪 Opened PR [#1](https://github.com/kelvin9314/docker-practice/pull/1) in [kelvin9314/docker-practice](https://github.com/kelvin9314/docker-practice)
-5. 🎉 Merged PR [#8](https://github.com/kelvin9314/nextjs-practice/pull/8) in [kelvin9314/nextjs-practice](https://github.com/kelvin9314/nextjs-practice)
-<!--END_SECTION:activity-->
-
-</details>
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

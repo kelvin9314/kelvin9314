@@ -3,8 +3,8 @@
 ## I'm a Developer, and Dream Fighter!!
 - 🌱 I’m currently learning everything
 - 👯 I’m working in Taiwan
-- 🥅 2021 Goals: coming soon~~
-- ⚡ Fun fact: I love to do sports, currently BODYCOMBAT and BODYCOMBAT class in my favorite
+- 🥅 2021 Goals: 100 Days of Coding (Python)
+- ⚡ Fun fact: I love to do sports, especially BODYCOMBAT and BODYCOMBAT 
 
 
 <br />

@@ -3,7 +3,7 @@
 ## I'm a Developer, and Dream Fighter!!
 - 🌱 I’m currently learning everything
 - 👯 I’m working in Taiwan
-- 🥅 2021 Goals: 100 Days of Coding (Python)
+- 🥅 2021 Goals: Introduce TypeScript to my projects
 - ⚡ Fun fact: I love to do sports, especially BODYCOMBAT and BODYCOMBAT 
 
 

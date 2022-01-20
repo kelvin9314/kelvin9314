@@ -34,8 +34,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2030%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,7 +64,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/01/2022 14:06:40 UTC
+ Last Updated on 20/01/2022 16:09:07 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

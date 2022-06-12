@@ -37,7 +37,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C984%20hrs%206%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Taipei
@@ -54,7 +54,7 @@ VS Code                  19 hrs 45 mins      ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               28 repos            ██████████████████░░░░░░░   71.79% 
@@ -67,7 +67,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 06:10:39 UTC
+ Last Updated on 12/06/2022 08:09:34 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

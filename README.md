@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C537%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C538%20hrs%2039%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,10 +43,14 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               39 mins             ██████████░░░░░░░░░░░░░░░   41.28% 
+JavaScript               36 mins             █████████░░░░░░░░░░░░░░░░   37.88% 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.76% 
+HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.0%
 
 ```
 
@@ -63,7 +67,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 16:09:10 UTC
+ Last Updated on 01/02/2023 18:09:48 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

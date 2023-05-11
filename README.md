@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -66,7 +66,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 14:06:16 UTC
+ Last Updated on 11/05/2023 16:07:50 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

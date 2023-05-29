@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C818%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -66,7 +66,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2023 14:05:41 UTC
+ Last Updated on 29/05/2023 16:07:33 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

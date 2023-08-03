@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,10 +43,10 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+Other                    14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +62,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2023 16:05:40 UTC
+ Last Updated on 03/08/2023 18:07:45 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

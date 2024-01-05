@@ -43,10 +43,10 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +62,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2024 16:07:40 UTC
+ Last Updated on 05/01/2024 18:08:18 UTC
 <!--END_SECTION:waka-->
 
 <br /> 

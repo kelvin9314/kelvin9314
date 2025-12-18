@@ -35,7 +35,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C841%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,10 +43,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     17 mins             ████████████████████░░░░░   79.50 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,7 +66,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 16:15:32 UTC
+ Last Updated on 18/12/2025 18:17:05 UTC
 <!--END_SECTION:waka-->
 
 <br /> 
